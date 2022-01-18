@@ -6,7 +6,7 @@
 ## :grinning: I'm:
 :sound: **sound engineer**
 
-:mortar_board: **currently learning frontEnd developmet in [HTML Academy](https://htmlacademy.ru/)**
+:mortar_board: **currently learning Frontend developmet in [HTML Academy](https://htmlacademy.ru/)**
 
 
 ## :mailbox_with_mail: Contacts:
