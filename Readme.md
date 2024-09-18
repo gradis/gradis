@@ -6,8 +6,7 @@
 ## :grinning: I'm:
 :sound: **sound engineer**
 
-:mortar_board: **currently learning Frontend developmet in [HTML Academy](https://htmlacademy.ru/)**
-
+**learning web development**
 
 ## :mailbox_with_mail: Contacts:
 - instagram: https://www.instagram.com/everfree.gradis/
