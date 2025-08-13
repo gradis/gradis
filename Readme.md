@@ -6,8 +6,6 @@
 ## :grinning: I'm:
 **backend developer**
 
-**learning web development**
-
 ## :mailbox_with_mail: Contacts:
 - instagram: https://www.instagram.com/everfree.gradis/
 - e-mail: everfree.gradis@gmail.com
