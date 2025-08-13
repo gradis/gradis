@@ -4,7 +4,7 @@
 
 
 ## :grinning: I'm:
-:sound: **sound engineer**
+**backend developer**
 
 **learning web development**
 
